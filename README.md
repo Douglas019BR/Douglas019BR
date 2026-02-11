@@ -24,13 +24,6 @@ Father to an amazing daughter named Maria who I consider my longest-running and 
 - [spotify-player](https://github.com/aome510/spotify-player)
 - [SendScriptWhatsApp](https://github.com/Douglas019BR/SendScriptWhatsApp)
 
-<details>
-  <summary style="margin-bottom: 1rem; margin-top: 1rem;">GitHub Stats :chart_with_upwards_trend:</summary>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Douglas019BR&theme=slateorangedark)](https://github.com/anuraghazra/github-readme-stats)
-</details>
-
-
 #### Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/douglassermarini/)
@@ -56,11 +49,5 @@ C • Dart • Java • Shell
 **Familiar With:**  
 AWS • NoSQL • Android • Linux • Arduino
 
-<details>
-  <summary style="margin-bottom: 1rem; margin-top: 1rem;">Most Used Languages :</summary>
-
-  [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas019BR&theme=slateorangedark&layout=compact&count_private=tru&lang_count=5&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Douglas019BR&label=Profile%20views&color=0e75b6&style=flat&color=green)
